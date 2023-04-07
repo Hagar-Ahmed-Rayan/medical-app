@@ -16,3 +16,5 @@ DataLoader
 Bleu
 Meteor
 Rouge
+VisualExtractor
+EncoderDecoder
