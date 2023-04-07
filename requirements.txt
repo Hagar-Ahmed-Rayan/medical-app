@@ -11,7 +11,7 @@ argparse
 json
 Counter
 DataLoader
-Bleu
+pycocoevalcap
 Meteor
 Rouge
 VisualExtractor
