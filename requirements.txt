@@ -8,7 +8,6 @@ torch
 torchvision 
 opencv-python==4.4.0.42
 argparse
-logging
 json
 Counter
 DataLoader
