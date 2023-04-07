@@ -5,5 +5,5 @@ joblib
 scikit-learn
 Image
 torch
-transforms
+torchvision 
 
