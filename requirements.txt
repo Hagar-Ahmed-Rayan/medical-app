@@ -18,7 +18,6 @@ fonttools==4.39.2
 idna==3.4
 kiwisolver==1.4.4
 matplotlib==3.7.1
-opencv-python==4.7.0.72
 packaging==23.0
 pyparsing==3.0.9
 python-dateutil==2.8.2
