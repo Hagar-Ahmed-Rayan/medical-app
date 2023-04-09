@@ -10,6 +10,7 @@ flask
 joblib
 scikit-learn
 pycocoevalcap
+pycocoevalcap.meteor
 certifi
 charset-normalizer
 contourpy
