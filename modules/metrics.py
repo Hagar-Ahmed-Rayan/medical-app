@@ -1,6 +1,7 @@
 from pycocoevalcap.bleu.bleu import Bleu
-import pycocoevalcap.meteor as pc
-from pycocoevalcap.rouge import Rouge
+from pycocoevalcap.meteor.meteor import Meteor
+
+from pycocoevalcap.rouge.rouge import Rouge
 
 
 def compute_scores(gts, res):
