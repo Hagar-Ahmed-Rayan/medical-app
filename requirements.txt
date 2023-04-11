@@ -1,16 +1,15 @@
+gunicorn
 torch
 numpy
 opencv-python~=4.7.0.72
 pandas
 Pillow
 torchvision
-gunicorn
 numpy
 flask
 joblib
 scikit-learn
 pycocoevalcap
-
 certifi
 charset-normalizer
 contourpy
