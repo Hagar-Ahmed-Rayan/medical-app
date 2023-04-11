@@ -1,5 +1,5 @@
 from pycocoevalcap.bleu.bleu import Bleu
-from pycocoevalcap.meteor import Meteor
+import pycocoevalcap.meteor as pc
 from pycocoevalcap.rouge import Rouge
 
 
