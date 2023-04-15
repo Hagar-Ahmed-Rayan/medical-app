@@ -1,7 +1,6 @@
 gunicorn
 torch
 numpy
-opencv-python
 pandas
 Pillow
 torchvision
