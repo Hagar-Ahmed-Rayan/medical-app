@@ -3,6 +3,7 @@ torch
 numpy
 pandas
 Pillow
+opencv-python==4.7.0.72
 torchvision
 numpy
 flask
@@ -28,7 +29,7 @@ six
 threadpoolctl
 typing_extensions
 urllib3
-opencv-python-headless
-opencv_contrib_python
+
+
 
 
