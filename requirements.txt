@@ -1,7 +1,7 @@
 gunicorn
 torch
 numpy
-opencv-python~=4.7.0.72
+opencv-python
 pandas
 Pillow
 torchvision
@@ -30,5 +30,6 @@ threadpoolctl
 typing_extensions
 urllib3
 opencv-python-headless
+opencv_contrib_python
 
 
