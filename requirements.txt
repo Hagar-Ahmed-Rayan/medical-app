@@ -4,7 +4,7 @@ numpy
 pandas
 Pillow
 opencv-python==4.7.0.72
-opencv-python-headless
+
 opencv_contrib_python
 torchvision
 numpy
