@@ -29,5 +29,6 @@ six
 threadpoolctl
 typing_extensions
 urllib3
+opencv-python-headless
 
 
